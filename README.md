@@ -1,1 +1,1 @@
-loft_project_4
+Адрес админ панели - /admin.php <br/>

@@ -1,0 +1,1 @@
+Заявка № {{$order->id}} на товар "{{$order->product['title']}}" оформлена пользователем {{$order->userMail}}
